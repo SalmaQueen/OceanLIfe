@@ -17,7 +17,7 @@ export default class Subscribe extends Component {
           </div>
           <div class="col-md-8 offset-md-2">
             <div class="main-content">
-              <p>Godard four dollar toast prism, authentic heirloom raw denim messenger bag gochujang put a bird on it celiac readymade vice.</p>
+              <p>Please be apart of esteemed customers. Provide your email to be apart of our mailing list. Thank you :)</p>
               <div class="container">
                 <form id="subscribe" action="" method="get">
                   <div class="row">

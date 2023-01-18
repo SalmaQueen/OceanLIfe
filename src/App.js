@@ -28,9 +28,9 @@ export default function App() {
           <Route path="/contact">
             <Contact />
           </Route>
-          <Route path="/products/single">
+          {/* <Route path="/products/single">
             <singleProduct/>
-          </Route>
+          </Route> */}
           </Switch> 
           <Footer/>   
       </BrowserRouter>
